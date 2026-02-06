@@ -1,8 +1,8 @@
 # 📝 115-2-6-CS_TEST — Pwn 題型 (Windows版本)
 
 本測驗共 3 題，總分 150 分，成績及格標準為 60 分。<br>
-題型皆為 Pwn (Binary Exploitation) 題目，請依各題題幹與程式碼進行分析與作答。
-
+題型皆為 Pwn (Binary Exploitation) 題目，請依各題題幹與程式碼進行分析與作答。<br>
+- ( 請注意要裝Python的pwntools，指令：pip install pwntools )
 ## 📌 考題內容
 
 - (Easy) Buffer_OverFlow
